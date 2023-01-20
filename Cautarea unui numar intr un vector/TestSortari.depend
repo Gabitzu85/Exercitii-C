@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603981121 source:c:\users\const\desktop\folder c++\testsortari\main.c
+	<stdio.h>
+	<stdlib.h>
+
