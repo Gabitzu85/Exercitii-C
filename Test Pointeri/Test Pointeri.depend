@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605032552 source:c:\users\const\desktop\folder c++\test pointeri\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608652716 source:c:\users\const\desktop\folder c++\random number gen\main.c
+	<stdio.h>
+	<stdlib.h>
+
