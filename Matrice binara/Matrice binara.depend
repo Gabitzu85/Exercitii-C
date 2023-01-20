@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610957269 source:c:\users\const\desktop\folder c++\matrice binara\main.c
+	<stdio.h>
+	<stdlib.h>
+

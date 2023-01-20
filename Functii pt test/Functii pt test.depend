@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606046245 source:c:\users\const\desktop\folder c++\functii pt test\main.c
+	<stdio.h>
+	<stdlib.h>
+
