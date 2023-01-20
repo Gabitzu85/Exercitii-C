@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606666454 source:c:\users\const\desktop\folder c++\p6set7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

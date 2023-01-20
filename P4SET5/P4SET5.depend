@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604305290 source:c:\users\const\desktop\folder c++\p4set5\main.c
+	<stdio.h>
+	<stdlib.h>
+
